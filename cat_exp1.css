@@ -1,0 +1,44 @@
+#body{
+    width: 200px;
+    display: inline-block;
+    box-shadow: 1px 1px 1px 1px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    
+    
+}
+.cat_image{
+    width: 200px;
+
+}
+.cat_image:hover{
+    filter: blur(2px);
+    transition: 1s;
+}
+#cat{
+    
+}
+#info-fr{
+    width: 100%;
+    
+    
+}
+.button{
+    background-color: red;
+    border: solid black;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    margin: 5px;
+    box-shadow: 2px 2px 2px 2px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: whitesmoke;
+    color: blue;
+}
+#body:hover{
+    color:black;
+}
